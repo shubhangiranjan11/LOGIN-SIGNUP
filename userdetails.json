@@ -1,0 +1,54 @@
+{
+    "user": [
+        {
+            "username": "pragati",
+            "password": "p@12",
+            "profile": {
+                "description": "I am bad girl",
+                "dob": "14 sep 1997",
+                "hobbies": "dancing",
+                "gender": "female"
+            }
+        },
+        {
+            "username": "shubhangi",
+            "password": "ranjan1",
+            "profile": {
+                "description": "i am bad girl",
+                "dob": "11/2/2002",
+                "hobbies": "dance",
+                "gender": "female"
+            }
+        },
+        {
+            "username": "sapna",
+            "password": "s@123",
+            "profile": {
+                "description": "asdf",
+                "dob": "21 april ",
+                "hobbies": "cooking",
+                "gender": "f"
+            }
+        },
+        {
+            "username": "shubhnagi",
+            "password": "shubhu12",
+            "profile": {
+                "description": "i am ",
+                "dob": "11/2/2002",
+                "hobbies": "dance",
+                "gender": "female"
+            }
+        },
+        {
+            "username": "shubhu",
+            "password": "213d",
+            "profile": {
+                "description": "dance",
+                "dob": "11/2/2002",
+                "hobbies": "dance",
+                "gender": "female"
+            }
+        }
+    ]
+}
