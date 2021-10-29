@@ -13,6 +13,8 @@ def write_json(data, filename='userdetails.json'):
 if user_input=="login":
     username= input("enter username: ")
     password= input("enter password :")
+    adress=input("enter adress :")
+    number=int(input("enter your number"))
     with open('userdetails.json') as f:
         var=json.load(f)
         var2=var['user']
@@ -59,6 +61,4 @@ elif user_input=="sign up":
                 print("hobbies:",hobbies)
                 print("dob:",data_of_birth)
             
-                write_json(data)
-
-
+write_json(data)
